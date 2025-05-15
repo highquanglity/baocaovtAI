@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: conference_101719.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: references.bib
+Repeated entry---line 322 of file references.bib
+ : @article{schuhmann2021laion400m
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "dinhanhx_VisualRoBERTa_2022" isn't style-file defined
+--line 470 of file references.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 58 entries,
+            4087 wiz_defined-function locations,
+            1118 strings with 21354 characters,
+and the built_in function-call counts, 38938 in all, are:
+= -- 2894
+> -- 1404
+< -- 145
++ -- 724
+- -- 320
+* -- 1887
+:= -- 5985
+add.period$ -- 117
+call.type$ -- 58
+change.case$ -- 70
+chr.to.int$ -- 378
+cite$ -- 58
+duplicate$ -- 2818
+empty$ -- 3153
+format.name$ -- 358
+if$ -- 8878
+int.to.chr$ -- 0
+int.to.str$ -- 58
+missing$ -- 647
+newline$ -- 281
+num.names$ -- 58
+pop$ -- 1810
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2878
+stack$ -- 0
+substring$ -- 1014
+swap$ -- 2063
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 58
+warning$ -- 0
+while$ -- 111
+width$ -- 60
+write$ -- 626
+(There was 1 error message)
